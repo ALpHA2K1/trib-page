@@ -1,0 +1,26 @@
+
+body {
+
+    
+    
+    
+    text-align: center;
+    color: black;
+    margin: 0;
+  }
+
+
+ul {
+  max-width: 600px;
+  margin: 0 auto 50px auto;
+  text-align: center;
+  
+}
+
+li {
+  margin: 16px 0;
+}
+#design { 
+
+background-color:aqua;
+}
